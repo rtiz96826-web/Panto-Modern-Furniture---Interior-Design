@@ -13,3 +13,5 @@ This project is only for learning purpose and not for commercial use.
 
 ## Purpose:
 To practice frontend development and convert Figma design into real working website.
+<img width="1440" height="5437" alt="Panto Furniture Landing Page" src="https://github.com/user-attachments/assets/36d0c442-53f2-4b86-967d-b6f263d28c75" />
+
