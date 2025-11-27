@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Oops! Page Not Found</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- STYLE -->
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #1a1a1a, #000);
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .container {
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        h1 {
+            font-size: 120px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #ff4d4d;
+        }
+
+        .tagline {
+            font-size: 20px;
+            margin-bottom: 15px;
+            opacity: 0.8;
+        }
+
+        .btn-group a {
+            display: inline-block;
+            padding: 12px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-size: 15px;
+            margin: 8px;
+            transition: 0.3s ease;
+        }
+
+        .btn-home {
+            background: #ff4d4d;
+            color: white;
+        }
+
+        .btn-home:hover { background: #e60000; }
+
+        .btn-hire {
+            border: 2px solid #ff4d4d;
+            color: #ff4d4d;
+        }
+
+        .btn-hire:hover {
+            background: #ff4d4d;
+            color: white;
+        }
+
+        .social {
+            margin-top: 25px;
+            font-size: 22px;
+        }
+
+        .social a {
+            color: #ff4d4d;
+            margin: 0 10px;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+
+        .social a:hover { color: #fff; }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>404</h1>
+        <p class="tagline">Looks like you’re lost in the space… 🚀</p>
+
+        <div class="btn-group">
+            <a href="index.html" class="btn-home">🏠 Go to Home</a>
+            <a href="mailto:solankiritik75@gmail.com" class="btn-hire">📩 Hire Me</a>
+        </div>
+
+        <div class="social">
+            <a href="https://rtiz.lovable.app">🌐 Website</a>
+            <a href="#">💼 LinkedIn</a>
+            <a href="#">📷 Instagram</a>
+        </div>
+    </div>
+</body>
+</html>
