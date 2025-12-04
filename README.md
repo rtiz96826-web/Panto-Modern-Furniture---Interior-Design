@@ -1,5 +1,8 @@
 # Panto Furniture Landing Page
 
+## 🔗 Live Demo
+[Panto Furniture Landing Page – View Live](https://rtiz96826-web.github.io/Panto-Modern-Furniture---Interior-Design/)
+
 This is a practice project inspired from a Figma community design.  
 I created this to improve my HTML, CSS, JavaScript and responsive web design skills.  
 This project is only for learning purpose and not for commercial use.
