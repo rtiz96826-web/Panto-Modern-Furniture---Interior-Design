@@ -11,7 +11,7 @@ This project is only for learning purpose and not for commercial use.
 - HTML5  
 - CSS3  
 - JavaScript  
-- Bootstrap (if used)  
+- Bootstrap 
 - WOW.js (for animation)  
 
 ## Purpose:
